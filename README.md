@@ -1,2 +1,2 @@
 # belly-button-challenge
-Module 14 Cgallenge
+Module 14 Challenge
